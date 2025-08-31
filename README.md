@@ -1,7 +1,7 @@
 # PrefabCreatorUnity
 Create Prefab From Selected Object in Hierarchy in Unity
 
-´´´
+```
 public class ReplayCamera : MonoBehaviour
 {
         private string prefabDir = "Prefabs/";
@@ -34,4 +34,4 @@ public class ReplayCamera : MonoBehaviour
 #endif
         }
 }
-´´´
+```
